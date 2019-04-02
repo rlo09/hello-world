@@ -2,6 +2,6 @@
 Classical Start of something new
 Ich bin Raphael
 
-Ich bin 17 Jahre alt
+Ich bin 30 Jahre alt
 
-ich probiere Git zum 1. mal
+ich probiere Git zum 2. mal
